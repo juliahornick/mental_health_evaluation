@@ -3,6 +3,8 @@
 
 
   But truthlly it is much more than that, it is a desease that affects around 500 million people around the world, and the second cause of death in people from 15 to 29 years old.
+  
+  Possible causes include a combination of biological, psychological and social sources of distress. Increasingly, research suggests that these factors may cause changes in brain function, including altered activity of certain neural circuits in the brain.
 
 <a href="https://www.linkedin.com/in/juliahornick" target="_blank"><img align="center" alt="Julia-py" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>  
 Julia Hornick, data scientist.
